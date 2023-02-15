@@ -1,4 +1,4 @@
-# Chatbot
+# Chatbot (Casper)
 
 This project was created by 
 - Subhadeep Mandal
